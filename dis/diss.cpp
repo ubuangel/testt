@@ -9,6 +9,7 @@
 using namespace std;
 int main(){as
 	cout<<"holas";asd
+	otro
 }
 
 
